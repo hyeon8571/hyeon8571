@@ -11,9 +11,9 @@ src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java
     src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"
      />
  #
-![Seunghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon8571&show_icons=true&theme=radical)
 
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeon857&show_icons=true&theme=radical" width="300">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zx8571" width="250">
+</p>
 
