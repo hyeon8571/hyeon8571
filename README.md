@@ -2,8 +2,10 @@
 
 <br>
 <br>
-<h3>About Me</h3>
+<img src="https://github.com/hyeon8571/hyeon8571/assets/97227876/47e24d52-24ff-4e2c-8dc3-0e5865ea6fd2" width="16" height="25" align='center'/> <b>&nbsp;&nbsp;About Me</b>
 
+<br>
+<br>
 <br>
 <img src="https://github.com/hyeon8571/tomato_disease_analyzer/assets/97227876/a83012e4-c770-40a7-9638-039d5bd927d1" width="35" height="38" align='center'/><b>&nbsp;&nbsp;Education</b>
 <br>
@@ -24,15 +26,14 @@
 <img src="https://github.com/hyeon8571/tomato_disease_analyzer/assets/97227876/7bb3175e-85d6-43e4-a604-df1657c37f9d" width="30" height="30" align='center'/><b>&nbsp;&nbsp;Github Stats</b>
 <br>
 <br>
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 10px;">
+<div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=hyeon8571&show_icons=true&theme=radical" width="450">
-    </div>
-    <div style="flex: 1;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon8571&layout=compact&theme=tokyonight">
-    </div>
 </div>
 
-
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zx8571" width="250">
+<br>
+<img src="https://github.com/hyeon8571/hyeon8571/assets/97227876/698d3860-bd8b-4ecd-9f8b-1fe68a8b26f4" width="34" height="34" align='center'/><b>&nbsp;&nbsp;Algorithm</b>
+<br>
+<br>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zx8571" width="250">
 
