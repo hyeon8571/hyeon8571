@@ -35,5 +35,5 @@
 <img src="https://github.com/hyeon8571/hyeon8571/assets/97227876/698d3860-bd8b-4ecd-9f8b-1fe68a8b26f4" width="34" height="34" align='center'/><b>&nbsp;&nbsp;Algorithm</b>
 <br>
 <br>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zx8571" width="250">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zx8571" width="400">
 
