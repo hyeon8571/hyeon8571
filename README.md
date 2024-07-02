@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<img src="https://github.com/hyeon8571/hyeon8571/assets/97227876/f860e245-26ef-4026-b53c-48eeee9fddd8" width="14" height="22" align='center'/> <b>&nbsp;&nbsp;About Me</b>
+<img src="https://github.com/hyeon8571/hyeon8571/assets/97227876/08b15df5-63b9-46de-9c26-189808fc6e73" width="12" height="17" align='center'/> <b>&nbsp;&nbsp;About Me</b>
 
 <br>
 <br>
