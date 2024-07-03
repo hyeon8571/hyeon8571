@@ -5,7 +5,7 @@
 <img src="https://github.com/hyeon8571/hyeon8571/assets/97227876/08b15df5-63b9-46de-9c26-189808fc6e73" width="12" height="17" align='center'/> <b>&nbsp;&nbsp;About Me</b>
 <br>
 <br>
- <a href="https://velog.io/@zaman17"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zx8571/series"/></a>
+ <a href="https://velog.io/@zx8571/series"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zx8571/series"/></a>
 
 <br>
 <br>
