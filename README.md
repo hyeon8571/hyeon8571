@@ -2,27 +2,25 @@
 
 <br>
 <br>
-<img src="https://github.com/hyeon8571/hyeon8571/assets/97227876/08b15df5-63b9-46de-9c26-189808fc6e73" width="12" height="17" align='center'/> <b>&nbsp;&nbsp;About Me</b>
-<br>
-<br>
- <a href="https://velog.io/@zx8571/series"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zx8571/series"/></a>
 
+### 📰 About Me
+ <a href="https://velog.io/@zx8571/series"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zx8571/series"/></a>
+ <a href="jamsiman11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <br>
-<br>
-<br>
-<img src="https://github.com/hyeon8571/tomato_disease_analyzer/assets/97227876/a83012e4-c770-40a7-9638-039d5bd927d1" width="35" height="38" align='center'/><b>&nbsp;&nbsp;Education</b>
-<br>
-<br>
+
+### :book: Education
 <ul>
      <li>가천대학교 컴퓨터공학과 졸업 (2018.03 ~ 2024.02)</li>
      <li>삼성 청년 SW 아카데미 (2024.01 ~ )</li>
 </ul>
 
 <br>
-<img src="https://github.com/hyeon8571/tomato_disease_analyzer/assets/97227876/99cda345-a0c4-4cc6-b63d-8a98b397cf7e" width="27" height="27" align='center'/><b>&nbsp;&nbsp;Tech Stack</b>
-<br>
+
+### 🚀 Project
+
 <br>
 
+### ⚒️ Tech Stack
 **프레임워크 및 라이브러리**
 <div>
   <span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></span>
@@ -39,19 +37,16 @@
   <span><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></span>
 </div>
+<br>
 
-<br>
-<img src="https://github.com/hyeon8571/tomato_disease_analyzer/assets/97227876/7bb3175e-85d6-43e4-a604-df1657c37f9d" width="30" height="30" align='center'/><b>&nbsp;&nbsp;Github Stats</b>
-<br>
-<br>
+### 📊 Github Stats
 <div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=hyeon8571&show_icons=true&theme=radical" width="450">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon8571&layout=compact&theme=tokyonight">
 </div>
 
 <br>
-<img src="https://github.com/hyeon8571/hyeon8571/assets/97227876/698d3860-bd8b-4ecd-9f8b-1fe68a8b26f4" width="34" height="34" align='center'/><b>&nbsp;&nbsp;Algorithm</b>
-<br>
-<br>
+
+### 🐳 Algorithm
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zx8571" width="350">
 
