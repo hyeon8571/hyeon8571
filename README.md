@@ -6,6 +6,7 @@
 ### 📰 About Me
  <a href="https://velog.io/@zx8571/series"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zx8571/series"/></a>
  <a href="mailto:jamsiman11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+
 <br>
 
 ### :book: Education
@@ -13,10 +14,6 @@
      <li>가천대학교 컴퓨터공학과 졸업 (2018.03 ~ 2024.02)</li>
      <li>삼성 청년 SW 아카데미 (2024.01 ~ )</li>
 </ul>
-
-<br>
-
-### 🚀 Project
 
 <br>
 
