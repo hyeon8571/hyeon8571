@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Won%20Seunghyeon&animation=twinkling&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Won%20Seunghyeon&animation=twinkling&fontSize=90) -->
 
 <br>
 <br>
@@ -11,7 +11,7 @@
 
 ### :book: Education
 <ul>
-     <li>가천대학교 컴퓨터공학과 졸업 (2018.03 ~ 2024.02)</li>
+   <!--  <li>가천대학교 컴퓨터공학과 졸업 (2018.03 ~ 2024.02)</li> -->
      <li>삼성 청년 SW 아카데미 (2024.01 ~ )</li>
 </ul>
 
