@@ -27,7 +27,6 @@
  <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/></span>
 </div>
 
-<br>
 
 **인프라**
 <div>
@@ -37,7 +36,6 @@
  <span><img src="https://img.shields.io/badge/docker-%230db7ed?style=flat-square&logo=docker&logoColor=white"/></span>
 </div>
 
-<br>
 
 **데이터베이스**
 <div>
