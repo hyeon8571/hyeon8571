@@ -29,13 +29,6 @@
 
 <br>
 
-**데이터베이스**
-<div>
-  <span><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></span>
-</div>
-<br>
-
 **인프라**
 <div>
   <span><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/></span>
@@ -43,6 +36,16 @@
   <span><img src="https://img.shields.io/badge/jenkins-%232C5263?style=flat-square&logo=jenkins&logoColor=white"/></span>
  <span><img src="https://img.shields.io/badge/docker-%230db7ed?style=flat-square&logo=docker&logoColor=white"/></span>
 </div>
+
+<br>
+
+**데이터베이스**
+<div>
+  <span><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></span>
+</div>
+<br>
+
 
 ### 📊 Github Stats
 <div align="left">
