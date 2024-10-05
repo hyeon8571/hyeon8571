@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Won%20Seunghyeon&animation=twinkling&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Won%20Seunghyeon&animation=twinkling&fontSize=50)
 
 
 <br>
@@ -36,6 +36,14 @@
   <span><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></span>
 </div>
 <br>
+
+**인프라**
+<div>
+  <span><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/jenkins-%232C5263?style=flat-square&logo=jenkins&logoColor=white"/></span>
+ <span><img src="https://img.shields.io/badge/docker-%230db7ed?style=flat-square&logo=docker&logoColor=white"/></span>
+</div>
 
 ### 📊 Github Stats
 <div align="left">
