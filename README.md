@@ -3,7 +3,6 @@
 <br>
 
 ### 📰 About Me
- <a href="https://translucent-chalk-51c.notion.site/962ecff5ae9e4722a64a4bfb70dce8b5?pvs=4"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=notion&logoColor=white&link=https://translucent-chalk-51c.notion.site/962ecff5ae9e4722a64a4bfb70dce8b5?pvs=4"/></a>
  <a href="https://velog.io/@zx8571/series"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zx8571/series"/></a>
  <a href="mailto:jamsiman11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <br>
