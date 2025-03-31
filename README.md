@@ -50,8 +50,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon8571&layout=compact&theme=tokyonight">
 </div>
 
+<!--
 <br>
 
 ### 🐳 Algorithm
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zx8571" width="350">
+-->
 
