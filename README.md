@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Won%20Seunghyeon&animation=twinkling&fontSize=50)
 
 <br>
 
