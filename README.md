@@ -1,7 +1,4 @@
 
-<br>
-
-
 ### 📰 About Me
  <a href="https://velog.io/@zx8571/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zx8571/posts"/></a>
  <a href="mailto:jamsiman11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
