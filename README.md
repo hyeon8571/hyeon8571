@@ -10,7 +10,7 @@
 <br>
 
 프레임워크 및 라이브러리
-<div> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/QueryDSL-007396?style=flat-square&logo=querydsl&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/MyBatis-B31B1B?style=flat-square&logo=mybatis&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/></span> </div>
+<div> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/MyBatis-B31B1B?style=flat-square&logo=mybatis&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/></span> </div>
 <br>
 
 인프라
