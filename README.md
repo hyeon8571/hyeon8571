@@ -21,12 +21,6 @@
 <div> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></span> </div>
 
 
-### 📊 Github Stats
-<div align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=hyeon8571&show_icons=true&theme=radical" width="450">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon8571&layout=compact&theme=tokyonight">
-</div>
-
 <!--
 <br>
 
