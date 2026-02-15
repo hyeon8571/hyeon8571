@@ -9,7 +9,7 @@
 ### ⚒️ Tech Stack
 
 <div> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></span> 
-<span style="margin-right: 6px;"><img src="https://img.shields.io/badge/-C%23-%23239120?logo=Csharp&style=flat-square"/></span>
+<span style="margin-right: 6px;"><img src="https://img.shields.io/badge/-C%23-%23512bd4?logo=Csharp&style=flat-square"/></span>
 </div>
 <div> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/Jenkins-%232C5263?style=flat-square&logo=jenkins&logoColor=white"/></span> <span style="margin-right: 6px;"><img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white"/></span> </div>
 
